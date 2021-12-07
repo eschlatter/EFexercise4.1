@@ -24,4 +24,4 @@ fit.logistic <- function(dat,par){
   optim(par,fn = lnL.logistic,dat=dat)
 }
 
-#add some stuff to the end to test Git
+#add some stuff to the end to test Git; still working?
